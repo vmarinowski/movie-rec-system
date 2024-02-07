@@ -4,4 +4,5 @@ numpy
 torch
 transformers
 faiss-cpu
-sentence_transformer
+sentence-transformer
+yake
