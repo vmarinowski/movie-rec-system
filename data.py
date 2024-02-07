@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("./data/embeddings.csv")
+df = pd.read_csv("./embeddings.csv")
 embeddings = df.values
 
 #movies = pd.read_csv("./data/movies.csv")
