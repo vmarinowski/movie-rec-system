@@ -4,5 +4,5 @@ numpy
 torch
 transformers
 faiss-cpu
-sentence-transformer
+sentence-transformers
 yake
